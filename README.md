@@ -1,2 +1,0 @@
-# tmux-config
-`.config`: Tmux
